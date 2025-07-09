@@ -1,0 +1,10 @@
+---
+title: 'LoRA-Augmented Generation (LAG) for Knowledge-Intensive Language Tasks'
+collection: publications
+permalink: /publication/lag
+excerpt: 'The proliferation of fine-tuned language model experts for specific tasks and domains signals the need for efficient selection and combination methods. We propose LoRA-Augmented Generation (LAG) for leveraging large libraries of knowledge and task-specific LoRA adapters. LAG requires no additional training or access to data, and efficiently filters, retrieves, and applies experts on a per-token and layer basis. We evaluate LAG on various knowledge-intensive tasks, achieving superior performance over existing data-free methods. We explore scenarios where additional data is available, demonstrating LAG’s compatibility with alternative solutions such as retrieval-augmented generation (RAG).'
+date: 2025-07-07
+venue: ArXiv
+citation: 'William Fleshman and Benjamin Van Durme, LoRA-Augmented Generation (LAG) for Knowledge-Intensive Tasks, 2025.'
+paperurl: 'https://fleshman.dev/files/lag.pdf'
+---
